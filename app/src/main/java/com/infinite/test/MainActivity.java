@@ -57,7 +57,7 @@ public class MainActivity extends Activity {
         if (mDialog == null) {
             AlertDialog.Builder builder = new AlertDialog.Builder(this);
             builder.setTitle("更新")
-                    .setMessage("本次更新内容:\n1,abcdefghijk\n2,1234567891011121314\n3,和俄are个高峰高个儿")
+                    .setMessage("本次更新内容:\n1,哈哈哈哈\n2,呵呵呵呵呵\n3,嘿嘿嘿嘿嘿嘿")
                     .setPositiveButton("更新", new DialogInterface.OnClickListener() {
                         @Override
                         public void onClick(DialogInterface dialogInterface, int i) {
